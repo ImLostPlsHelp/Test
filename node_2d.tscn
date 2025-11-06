@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dad7bc4523ujr"]
+
+[ext_resource type="Texture2D" uid="uid://bnpq24hjgttdn" path="res://Background_Image_Resize.png" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="BackgroundImageResize" type="Sprite2D" parent="."]
+position = Vector2(442, 293)
+texture = ExtResource("1_wtcfe")
