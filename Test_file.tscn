@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0kksw4xcj77x"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_4erhb"]
+
+[node name="MeshInstance2D" type="MeshInstance2D"]
+position = Vector2(532, 261)
+scale = Vector2(-564, 368)
+mesh = SubResource("BoxMesh_4erhb")
